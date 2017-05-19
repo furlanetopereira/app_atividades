@@ -1,3 +1,11 @@
+#########################################
+Teste - Analista Programador Sênior (PHP)
+#########################################
+
+Meu nome é Paulo Afonso F. Pereira
+pauloafonso@furlanetopereira.com.br
+
+
 ###################
 What is CodeIgniter
 ###################
